@@ -1,0 +1,2 @@
+MSG *  PRIVET !!!
+MSG *   PRIVET    
